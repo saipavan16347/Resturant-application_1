@@ -1,2 +1,1 @@
-# Travel-web-app
-This travel web application allows users to explore travel destinations, view tour packages, and plan trips through a clean and responsive interface. The project focuses on user-friendly navigation, modern UI design, and smooth browsing across devices, demonstrating practical skills in frontend development and web application structure.
+This restaurant web application provides an interactive platform for users to explore the menu, view restaurant details, and place food orders through a simple and responsive interface. The project emphasizes modern UI design, smooth navigation, and an enhanced user experience across all devices, showcasing practical frontend web development skills.
